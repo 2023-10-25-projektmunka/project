@@ -1,6 +1,7 @@
-.kep{
+img{
     width: 100%;
-    position: absolute;
+    height: 0%;
+    position: relative;
     top: 0;
     left: 0;
     z-index: 1;
@@ -8,4 +9,25 @@
 
 div{
     display: block;
+}
+
+.kunbela{
+    position: absolute;
+    top: 480px;
+    left: 800px;
+    width: 400px;
+    height: 100px;
+}
+
+body{
+    text-align: center;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    color: grey;
+}
+
+blockquote::before{
+    color: gray
 }

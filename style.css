@@ -1,33 +1,32 @@
-img{
-    width: 100%;
-    position: absolute;
-    height: 0%;
+img {
     position: relative;
-    top: 0;
-    left: 0;
-    z-index: 1;
-}
-div{
-    display: block;
-}
-
-.kunbela{
-    position: absolute;
-    top: 480px;
-    left: 800px;
-    width: 400px;
-    height: 100px;
-}
-
-body{
-    text-align: center;
-}
-
-p{
-    font-family: 'Josefin Sans', sans-serif;
-    color: grey;
-}
-
-blockquote::before{
-    color: gray
-}
+    width: 70%;
+    margin-left: 260px;
+    border-top: 4px solid black;
+    margin-top: 0px;
+  }
+  .kun {
+    position: relative;
+    text-align-last: auto;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: -130px;
+    width: 500px;
+  }
+  .bela{
+    margin-bottom: 80px;
+  }
+  .kunbela {
+    font-weight: bolder;
+    font-size: 60px;
+  }
+  body{
+    margin-top: 0px;
+  }
+  h1 {
+    margin: 0px;
+  }
+  ul {
+    font-size: 12px;
+    line-height: 20px;
+  }

@@ -26,6 +26,11 @@ img {
   h1 {
     margin: 0px;
   }
+  span{
+    font-size: 14px;
+    font-weight: 25px;
+    font-weight: lighter;
+  }
   ul {
     font-size: 12px;
     line-height: 20px;

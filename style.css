@@ -1,0 +1,57 @@
+img {
+    position: relative;
+    width: 70%;
+    margin-left: 260px;
+    border-top: 4px solid black;
+    margin-top: 0px;
+  }
+  .kun {
+    position: relative;
+    text-align-last: auto;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: -130px;
+    width: 500px;
+  }
+  .bela{
+    margin-bottom: 80px;
+  }
+  .kunbela {
+    font-weight: bolder;
+    font-size: 60px;
+  }
+  body{
+    margin-top: 0px;
+  }
+  h1 {
+    margin: 0px;
+  }
+  h4{
+    font-size: 240%;
+    font-style: normal;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(68,68,68);
+    padding: 40px;
+    border: 20px;
+    width: 550px;
+    position: relative;
+    left: -50px;
+  }
+  h4::before{
+    display: block;
+    content: "\201C";
+    position: absolute;
+    left: 1px;
+    top: -30px;
+    font-size: 110px;
+  }
+  span{
+    font-size: 14px;
+    font-weight: 25px;
+    font-weight: lighter;
+  }
+  ul {
+    font-size: 12px;
+    line-height: 20px;
+  }

@@ -15,13 +15,14 @@ img {
   }
   .bela{
     margin-bottom: 80px;
+    font-family: 'Abril Fatface';
   }
   .kunbela {
     font-weight: bolder;
     font-size: 60px;
   }
   body{
-    margin-top: 0px;
+    margin-top: 0px; 
   }
   h1 {
     margin: 0px;
@@ -37,6 +38,7 @@ img {
     width: 550px;
     position: relative;
     left: -50px;
+    font-family: 'Merriweather';
   }
   h4::before{
     display: block;
@@ -50,6 +52,7 @@ img {
     font-size: 14px;
     font-weight: 25px;
     font-weight: lighter;
+    font-family: 'Josefin Sans';
   }
   ul {
     font-size: 12px;

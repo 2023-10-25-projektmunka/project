@@ -2,7 +2,6 @@ img {
     position: relative;
     width: 70%;
     margin-left: 260px;
-    border-top: 4px solid black;
     margin-top: 0px;
   }
   .kun {
@@ -36,7 +35,7 @@ img {
     width: 550px;
     position: relative;
     left: -50px;
-    font-family: 'Merriweather';
+    font-family: 'Abril Fatface';
   }
   h4::before{
     display: block;
@@ -54,5 +53,5 @@ img {
   }
   ul {
     font-size: 12px;
-    line-height: 20px;
+    line-height: 30px;
   }

@@ -11,7 +11,7 @@ img {
     margin-left: 500px;
     margin-right: 500px;
     margin-top: -130px;
-    width: 500px;
+    width: 70%;
   }
   .bela{
     margin-bottom: 80px;
@@ -19,7 +19,7 @@ img {
   }
   .kunbela {
     font-weight: bolder;
-    font-size: 60px;
+    font-size: 50px;
   }
   body{
     margin-top: 0px; 

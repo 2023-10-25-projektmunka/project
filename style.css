@@ -38,6 +38,14 @@ img {
     position: relative;
     left: -50px;
   }
+  h4::before{
+    display: block;
+    content: "\201C";
+    position: absolute;
+    left: 1px;
+    top: -30px;
+    font-size: 110px;
+  }
   span{
     font-size: 14px;
     font-weight: 25px;

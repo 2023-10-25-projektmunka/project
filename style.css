@@ -18,7 +18,6 @@ img {
     font-family: 'Abril Fatface';
   }
   .kunbela {
-    font-weight: bolder;
     font-size: 50px;
   }
   body{
@@ -30,7 +29,6 @@ img {
   h4{
     font-size: 240%;
     font-style: normal;
-    font-weight: bolder;
     color: white;
     background-color: rgb(68,68,68);
     padding: 40px;
